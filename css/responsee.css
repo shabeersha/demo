@@ -133,11 +133,11 @@ mark {
 
 .size-960.align-content-left .line,.size-1140.align-content-left .line,.size-1280.align-content-left .line,.size-1520.align-content-left .line {margin-left:0;}
 form {line-height:1.4;}
-nav {
+/*nav {
   display:block;
   width:100%;
   background:#152732;
-}
+}*/
 .line::after, nav::after, .center::after, .box::after, .margin::after, .margin2x::after, .grid.full::after {
   clear:both;
   content: ".";
